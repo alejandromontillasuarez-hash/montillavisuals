@@ -225,7 +225,7 @@ button {
 .about-content h2,
 .contact-heading h2,
 .services-header h2,
-.collaboration-copy h2 {
+.collaboration-item h2 {
     text-wrap: balance;
 }
 
@@ -1822,60 +1822,29 @@ button {
     min-width: 0;
 }
 
-.collaboration-copy h2 {
-    display: flex;
-    flex-direction: column;
-    margin: 40px 0 0;
+.collaboration-list {
+    margin-top: 40px;
+    border-bottom: 1px solid var(--border-soft);
+}
+
+.collaboration-item {
+    padding: clamp(22px, 3vw, 42px) 0;
+    border-top: 1px solid var(--border-soft);
+}
+
+.collaboration-item h2 {
+    margin: 0;
     font-size: clamp(48px, 8vw, 130px);
     line-height: 0.88;
 }
 
-.collaboration-copy h2 span {
-    display: block;
-}
-
-.collaboration-copy h2 span:first-child {
+.collaboration-item:first-child h2 {
     padding-left: 0.15em;
 }
 
-.collaboration-copy h2 span:last-child {
+.collaboration-item:last-child h2 {
     padding-left: 0.48em;
     color: var(--grey);
-}
-
-/* =========================================================
-   14. TESTIMONIALS
-   ========================================================= */
-
-.testimonial-section {
-    width: var(--container);
-    max-width: 1380px;
-    margin-inline: auto;
-    padding: 70px 0 var(--space-xxl);
-    display: grid;
-    grid-template-columns: minmax(100px, 1fr) minmax(0, 3fr);
-    gap: 50px;
-    border-top: 1px solid var(--border-soft);
-    min-width: 0;
-}
-
-.testimonial-content {
-    max-width: 750px;
-    min-width: 0;
-}
-
-.testimonial-content h2 {
-    margin: 18px 0 25px;
-    font-size: clamp(38px, 5vw, 72px);
-    line-height: 0.98;
-}
-
-.testimonial-content > p:last-child {
-    max-width: 480px;
-    color: var(--grey);
-    font-family: var(--font-editorial);
-    font-style: italic;
-    font-size: 19px;
 }
 
 /* =========================================================
@@ -2467,10 +2436,6 @@ button {
         grid-column: 2 / 3;
     }
 
-    .testimonial-section {
-        grid-template-columns: 1fr;
-    }
-
     .contact-section {
         padding-left: 20px;
         padding-right: 20px;
@@ -2703,12 +2668,8 @@ button {
         font-size: 11px;
     }
 
-    .collaboration-copy h2 {
+    .collaboration-item h2 {
         font-size: clamp(42px, 12vw, 68px);
-    }
-
-    .testimonial-content h2 {
-        font-size: 40px;
     }
 
     .contact-heading {

@@ -371,12 +371,6 @@
                 label: "AUSGEWÄHLTE KOLLABORATIONEN"
             },
 
-            testimonials: {
-                label: "TESTIMONIALS",
-                title: "RACETECH.",
-                empty: "Er ist der beste Fotograf der Welt.."
-            },
-
             contact: {
                 label: "KONTAKT / KOLLABORATION",
                 title1: "LASST UNS",
@@ -530,13 +524,6 @@
                 label: "SELECTED COLLABORATIONS"
             },
 
-            testimonials: {
-                label: "TESTIMONIALS",
-                title: "RACETECH.",
-                empty: "He is the best photographer in the world.."
-            },
-            
-
             contact: {
                 label: "CONTACT / COLLABORATION",
                 title1: "LET'S",
@@ -688,12 +675,6 @@
 
             collaborations: {
                 label: "COLABORACIONES SELECCIONADAS"
-            },
-
-            testimonials: {
-                label: "TESTIMONIOS",
-                title: "RACETECH.",
-                empty: "Es el mejor fotografo del mundo SIEMPRE."
             },
 
             contact: {
