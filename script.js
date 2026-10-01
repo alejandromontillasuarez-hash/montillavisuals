@@ -1079,10 +1079,6 @@
             </span>
         `;
 
-        button.addEventListener("click", () => {
-            openLightbox(index, button);
-        });
-
         return button;
     };
 
@@ -1577,6 +1573,18 @@
             button.addEventListener("click", () => {
                 setPortfolioFilter(button.dataset.filter);
             });
+        });
+
+        dom.portfolioGrid?.addEventListener("click", (event) => {
+            if (!(event.target instanceof Element)) return;
+
+            const item = event.target.closest(".portfolio-item");
+            if (!item || !dom.portfolioGrid.contains(item)) return;
+
+            const index = Number(item.dataset.portfolioIndex);
+            if (!Number.isInteger(index)) return;
+
+            openLightbox(index, item);
         });
 
         dom.heroPrev?.addEventListener("click", previousHeroSlide);
