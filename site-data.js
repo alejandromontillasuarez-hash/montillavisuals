@@ -170,6 +170,11 @@
 
     const translations = {
         de: {
+            seo: {
+                title: "MONTILLA VISUALS — Fotograf & Visual Storyteller in Hamburg",
+                description: "Fotografie und Creative Visuals aus Hamburg für Portraits, Events, Musik, Nachtleben, Fashion und visuelles Storytelling."
+            },
+
             accessibility: {
                 skip: "Zum Hauptinhalt springen",
                 openMenu: "Menü öffnen",
@@ -236,6 +241,7 @@
             services: {
                 label: "SERVICES",
                 title: "Gebaut um das Bild.",
+                cta: "ERZÄHL MIR VON DEINEM PROJEKT ↗",
                 portraits: {
                     title: "Portraits",
                     description: "Persönliche Portraits mit Charakter, Atmosphäre und einer redaktionellen Note."
@@ -314,7 +320,8 @@
 
             portfolio: {
                 empty: "Für diese Kategorie sind derzeit keine Arbeiten verfügbar.",
-                view: "PROJEKT ANSEHEN"
+                view: "PROJEKT ANSEHEN",
+                cta: "ÄHNLICHES SHOOTING PLANEN ↗"
             },
 
             footer: {
@@ -323,6 +330,11 @@
         },
 
         en: {
+            seo: {
+                title: "MONTILLA VISUALS — Photographer & Visual Storyteller in Hamburg",
+                description: "Photography and creative visuals from Hamburg for portraits, events, music, nightlife, fashion and visual storytelling."
+            },
+
             accessibility: {
                 skip: "Skip to main content",
                 openMenu: "Open menu",
@@ -389,6 +401,7 @@
             services: {
                 label: "SERVICES",
                 title: "Built around the image.",
+                cta: "TELL ME ABOUT YOUR PROJECT ↗",
                 portraits: {
                     title: "Portraits",
                     description: "Personal portraits with character, atmosphere and an editorial edge."
@@ -467,7 +480,8 @@
 
             portfolio: {
                 empty: "There are currently no works available for this category.",
-                view: "VIEW PROJECT"
+                view: "VIEW PROJECT",
+                cta: "PLAN A SIMILAR SHOOT ↗"
             },
 
             footer: {
@@ -476,6 +490,11 @@
         },
 
         es: {
+            seo: {
+                title: "MONTILLA VISUALS — Fotógrafo y Visual Storyteller en Hamburgo",
+                description: "Fotografía y contenido visual desde Hamburgo para retratos, eventos, música, vida nocturna, moda y storytelling visual."
+            },
+
             accessibility: {
                 skip: "Saltar al contenido principal",
                 openMenu: "Abrir menú",
@@ -542,6 +561,7 @@
             services: {
                 label: "SERVICIOS",
                 title: "Construido alrededor de la imagen.",
+                cta: "CUÉNTAME SOBRE TU PROYECTO ↗",
                 portraits: {
                     title: "Retratos",
                     description: "Retratos personales con carácter, atmósfera y una mirada editorial."
@@ -620,7 +640,8 @@
 
             portfolio: {
                 empty: "Actualmente no hay trabajos disponibles para esta categoría.",
-                view: "VER PROYECTO"
+                view: "VER PROYECTO",
+                cta: "PLANEAR UNA SESIÓN SIMILAR ↗"
             },
 
             footer: {

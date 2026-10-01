@@ -1626,6 +1626,28 @@ button {
     transform: translate(4px, -4px);
 }
 
+.services-cta {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    max-width: 1380px;
+    min-height: 52px;
+    margin: 48px auto 0;
+    padding: 15px 0;
+    border-top: 1px solid var(--border);
+    border-bottom: 1px solid var(--border);
+    font-size: 10px;
+    letter-spacing: 0.16em;
+    transition: padding 0.35s var(--ease);
+}
+
+@media (hover: hover) {
+    .services-cta:hover {
+        padding-inline: 12px;
+    }
+}
+
 /* =========================================================
    13. COLLABORATIONS
    ========================================================= */
@@ -1963,15 +1985,25 @@ button {
 }
 
 .lightbox__details p {
-    margin: 25px 0 55px;
+    margin: 25px 0 30px;
     color: var(--grey-light);
     font-size: 12px;
     line-height: 1.7;
 }
 
+.lightbox__cta {
+    display: inline-flex;
+    min-height: 44px;
+    align-items: center;
+    border-bottom: 1px solid var(--border);
+    font-size: 9px;
+    letter-spacing: 0.13em;
+}
+
 .lightbox__counter {
     display: flex;
     gap: 8px;
+    margin-top: 34px;
     color: var(--grey);
     font-size: 10px;
     letter-spacing: 0.12em;

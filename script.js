@@ -169,8 +169,38 @@
         }
     };
 
+    const setMetaContent = (selector, content) => {
+        const element = document.querySelector(selector);
+
+        if (element && content) {
+            element.setAttribute("content", content);
+        }
+    };
+
+    const updateDocumentMetadata = () => {
+        const title = getTranslation("seo.title");
+        const description = getTranslation("seo.description");
+        const localeByLanguage = {
+            de: "de_DE",
+            en: "en_GB",
+            es: "es_ES"
+        };
+
+        if (title) {
+            document.title = title;
+        }
+
+        setMetaContent('meta[name="description"]', description);
+        setMetaContent('meta[property="og:title"]', title);
+        setMetaContent('meta[property="og:description"]', description);
+        setMetaContent('meta[property="og:locale"]', localeByLanguage[state.language]);
+        setMetaContent('meta[name="twitter:title"]', title);
+        setMetaContent('meta[name="twitter:description"]', description);
+    };
+
     const applyTranslations = () => {
         dom.html.lang = state.language;
+        updateDocumentMetadata();
 
         document.querySelectorAll("[data-i18n]").forEach((element) => {
             const key = element.dataset.i18n;
