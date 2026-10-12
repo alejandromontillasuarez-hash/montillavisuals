@@ -467,6 +467,10 @@
             <span class="portfolio-item__media">
                 <img
                     src="${escapeHtml(item.image)}"
+                    srcset="${[480, 960, 1440].map(width => `${escapeHtml(item.image.replace("/photo-", "/responsive/photo-").replace(".webp", `-${width}.webp`))} ${Math.min(width, item.width)}w`).join(", ")}"
+                    sizes="(max-width: 600px) calc(100vw - 32px), (max-width: 1000px) calc((100vw - 64px) / 2), (max-width: 1520px) calc((100vw - 112px) / 3), 469px"
+                    width="${item.width}"
+                    height="${item.height}"
                     alt="${escapeHtml(item.title)} — ${escapeHtml(categoryLabel)} — ${escapeHtml(item.location)}"
                     loading="lazy"
                     decoding="async"

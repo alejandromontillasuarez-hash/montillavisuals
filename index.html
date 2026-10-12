@@ -31,6 +31,7 @@
     <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600&amp;family=Playfair+Display:ital,wght@0,400;0,500;1,400;1,500&amp;display=swap" rel="stylesheet">
 
     <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="service-gallery.css">
 
     <script type="application/ld+json">
     {
@@ -61,9 +62,16 @@
         ]
     }
     </script>
+<link rel="stylesheet" href="ambient-background.css">
 </head>
 
 <body>
+    <div class="ambient-background" aria-hidden="true">
+        <span class="ambient-background__light"></span>
+        <span class="ambient-background__light ambient-background__light--two"></span>
+        <span class="ambient-background__light ambient-background__light--three"></span>
+        <span class="ambient-background__grain"></span>
+    </div>
     <a class="skip-link" href="#main-content" data-i18n="accessibility.skip">Zum Hauptinhalt springen</a>
 
     <div class="site-loader" aria-hidden="true">
@@ -73,8 +81,7 @@
     <header class="site-header" id="site-header">
         <div class="header-inner">
             <a class="brand" href="#top" aria-label="MONTILLA VISUALS — Home">
-                <span class="brand__primary">MONTILLA</span>
-                <span class="brand__secondary">VISUALS</span>
+                <img class="brand__logo" src="images/logo/logo.svg" alt="MONTILLA VISUALS" width="90" height="56" decoding="async">
             </a>
 
             <nav class="desktop-nav" aria-label="Main navigation">
@@ -291,75 +298,75 @@
             </div>
 
             <div class="services-list">
-                <article class="service-row reveal">
+                <a class="service-row reveal" href="galerias/retratos.html">
                     <span class="service-number">01</span>
                     <h3 data-i18n="services.portraits.title">Portraits</h3>
                     <p data-i18n="services.portraits.description">Personal portraits with character, atmosphere and an editorial edge.</p>
-                    <span class="service-arrow">↗</span>
-                </article>
+                    <span class="service-arrow" aria-hidden="true">↗</span>
+                </a>
 
-                <article class="service-row reveal">
+                <a class="service-row reveal" href="galerias/eventos.html">
                     <span class="service-number">02</span>
                     <h3 data-i18n="services.events.title">Events</h3>
                     <p data-i18n="services.events.description">Atmospheric coverage that captures the energy beyond the obvious moment.</p>
-                    <span class="service-arrow">↗</span>
-                </article>
+                    <span class="service-arrow" aria-hidden="true">↗</span>
+                </a>
 
-                <article class="service-row reveal">
+                <a class="service-row reveal" href="galerias/dj-musica.html">
                     <span class="service-number">03</span>
                     <h3 data-i18n="services.djs.title">DJ / Music</h3>
                     <p data-i18n="services.djs.description">Visual content for DJs, artists, collectives and electronic music culture.</p>
-                    <span class="service-arrow">↗</span>
-                </article>
+                    <span class="service-arrow" aria-hidden="true">↗</span>
+                </a>
 
-                <article class="service-row reveal">
+                <a class="service-row reveal" href="galerias/vida-nocturna.html">
                     <span class="service-number">04</span>
                     <h3 data-i18n="services.nightlife.title">Nightlife</h3>
                     <p data-i18n="services.nightlife.description">Dark rooms, movement, light and the atmosphere between the tracks.</p>
-                    <span class="service-arrow">↗</span>
-                </article>
+                    <span class="service-arrow" aria-hidden="true">↗</span>
+                </a>
 
-                <article class="service-row reveal">
+                <a class="service-row reveal" href="galerias/moda.html">
                     <span class="service-number">05</span>
                     <h3 data-i18n="services.fashion.title">Fashion</h3>
                     <p data-i18n="services.fashion.description">Editorial imagery with a contemporary and cinematic visual language.</p>
-                    <span class="service-arrow">↗</span>
-                </article>
+                    <span class="service-arrow" aria-hidden="true">↗</span>
+                </a>
 
-                <article class="service-row reveal">
+                <a class="service-row reveal" href="galerias/conciertos.html">
                     <span class="service-number">06</span>
                     <h3 data-i18n="services.concerts.title">Concerts</h3>
                     <p data-i18n="services.concerts.description">Live performance photography built around emotion, light and movement.</p>
-                    <span class="service-arrow">↗</span>
-                </article>
+                    <span class="service-arrow" aria-hidden="true">↗</span>
+                </a>
 
-                <article class="service-row reveal">
+                <a class="service-row reveal" href="galerias/calle.html">
                     <span class="service-number">07</span>
                     <h3 data-i18n="services.street.title">Street</h3>
                     <p data-i18n="services.street.description">Unscripted scenes and everyday details observed with intention.</p>
-                    <span class="service-arrow">↗</span>
-                </article>
+                    <span class="service-arrow" aria-hidden="true">↗</span>
+                </a>
 
-                <article class="service-row reveal">
+                <a class="service-row reveal" href="galerias/parejas.html">
                     <span class="service-number">08</span>
                     <h3 data-i18n="services.couples.title">Couples</h3>
                     <p data-i18n="services.couples.description">Natural, intimate imagery focused on connection rather than poses.</p>
-                    <span class="service-arrow">↗</span>
-                </article>
+                    <span class="service-arrow" aria-hidden="true">↗</span>
+                </a>
 
-                <article class="service-row reveal">
+                <a class="service-row reveal" href="galerias/F1.html">
                     <span class="service-number">09</span>
                     <h3 data-i18n="services.automotive.title">Automotive</h3>
                     <p data-i18n="services.automotive.description">Automotive imagery combining machine, environment and cinematic atmosphere.</p>
-                    <span class="service-arrow">↗</span>
-                </article>
+                    <span class="service-arrow" aria-hidden="true">↗</span>
+                </a>
 
-                <article class="service-row reveal">
+                <a class="service-row reveal" href="galerias/fauna.html">
                     <span class="service-number">10</span>
                     <h3 data-i18n="services.wildlife.title">Wildlife</h3>
                     <p data-i18n="services.wildlife.description">Observational photography focused on presence, detail and natural behavior.</p>
-                    <span class="service-arrow">↗</span>
-                </article>
+                    <span class="service-arrow" aria-hidden="true">↗</span>
+                </a>
             </div>
 
             <a class="services-cta reveal" href="#contact" data-i18n="services.cta">
@@ -497,9 +504,8 @@
 
     <footer class="site-footer">
         <div class="footer-top">
-            <a class="brand brand--footer" href="#top">
-                <span class="brand__primary">MONTILLA</span>
-                <span class="brand__secondary">VISUALS</span>
+            <a class="brand brand--footer" href="#top" aria-label="MONTILLA VISUALS — Home">
+                <img class="brand__logo" src="images/logo/logo.svg" alt="MONTILLA VISUALS" width="90" height="56" decoding="async">
             </a>
 
             <p data-i18n="footer.statement">Photography / Creative Visuals / Hamburg</p>
@@ -572,5 +578,6 @@
 
     <script src="site-data.js" defer></script>
     <script src="script.js" defer></script>
+<script src="ambient-background.js" defer></script>
 </body>
 </html>

@@ -4,6 +4,8 @@
     const portfolioData = [
         {
             image: "images/portfolio/photo-01.webp",
+            width: 1365,
+            height: 2048,
             category: "portraits",
             title: "After Hours",
             location: "Hamburg, Germany",
@@ -12,6 +14,8 @@
         },
         {
             image: "images/portfolio/photo-02.webp",
+            width: 2048,
+            height: 1365,
             category: "djs",
             title: "Frequency",
             location: "Hamburg, Germany",
@@ -20,6 +24,8 @@
         },
         {
             image: "images/portfolio/photo-03.webp",
+            width: 2560,
+            height: 1707,
             category: "nightlife",
             title: "Nocturne",
             location: "Hamburg, Germany",
@@ -28,6 +34,8 @@
         },
         {
             image: "images/portfolio/photo-04.webp",
+            width: 1365,
+            height: 2048,
             category: "fashion",
             title: "Concrete",
             location: "Hamburg, Germany",
@@ -36,6 +44,8 @@
         },
         {
             image: "images/portfolio/photo-05.webp",
+            width: 1365,
+            height: 2048,
             category: "street",
             title: "Passing Through",
             location: "Hamburg, Germany",
@@ -44,6 +54,8 @@
         },
         {
             image: "images/portfolio/photo-06.webp",
+            width: 1365,
+            height: 2048,
             category: "events",
             title: "The Room",
             location: "Hamburg, Germany",
@@ -52,6 +64,8 @@
         },
         {
             image: "images/portfolio/photo-07.webp",
+            width: 1365,
+            height: 2048,
             category: "concerts",
             title: "Live Signal",
             location: "Hamburg, Germany",
@@ -60,6 +74,8 @@
         },
         {
             image: "images/portfolio/photo-08.webp",
+            width: 2560,
+            height: 1707,
             category: "couples",
             title: "Between Us",
             location: "Hamburg, Germany",
@@ -68,6 +84,8 @@
         },
         {
             image: "images/portfolio/photo-09.webp",
+            width: 1996,
+            height: 2311,
             category: "automotive",
             title: "Machine / Motion",
             location: "Germany",
@@ -76,6 +94,8 @@
         },
         {
             image: "images/portfolio/photo-10.webp",
+            width: 2048,
+            height: 1365,
             category: "wildlife",
             title: "Wild Presence",
             location: "Germany",
@@ -84,6 +104,8 @@
         },
         {
             image: "images/portfolio/photo-11.webp",
+            width: 1365,
+            height: 2048,
             category: "portraits",
             title: "Still Moving",
             location: "Hamburg, Germany",
@@ -92,6 +114,8 @@
         },
         {
             image: "images/portfolio/photo-12.webp",
+            width: 2048,
+            height: 1365,
             category: "djs",
             title: "Pressure",
             location: "Hamburg, Germany",
@@ -100,6 +124,8 @@
         },
         {
             image: "images/portfolio/photo-13.webp",
+            width: 2560,
+            height: 2560,
             category: "nightlife",
             title: "Red Light",
             location: "Hamburg, Germany",
@@ -108,6 +134,8 @@
         },
         {
             image: "images/portfolio/photo-14.webp",
+            width: 1365,
+            height: 2048,
             category: "fashion",
             title: "Structure",
             location: "Hamburg, Germany",
@@ -116,6 +144,8 @@
         },
         {
             image: "images/portfolio/photo-15.webp",
+            width: 2560,
+            height: 1707,
             category: "street",
             title: "Sunday",
             location: "Hamburg, Germany",
@@ -124,6 +154,8 @@
         },
         {
             image: "images/portfolio/photo-16.webp",
+            width: 2048,
+            height: 1328,
             category: "events",
             title: "Crowd",
             location: "Hamburg, Germany",
@@ -132,6 +164,8 @@
         },
         {
             image: "images/portfolio/photo-17.webp",
+            width: 2048,
+            height: 1365,
             category: "concerts",
             title: "Feedback",
             location: "Hamburg, Germany",
@@ -140,6 +174,8 @@
         },
         {
             image: "images/portfolio/photo-18.webp",
+            width: 1365,
+            height: 2048,
             category: "couples",
             title: "Quiet Hours",
             location: "Hamburg, Germany",
@@ -148,6 +184,8 @@
         },
         {
             image: "images/portfolio/photo-19.webp",
+            width: 2560,
+            height: 1471,
             category: "automotive",
             title: "Night Drive",
             location: "Germany",
@@ -156,6 +194,8 @@
         },
         {
             image: "images/portfolio/photo-20.webp",
+            width: 2560,
+            height: 1707,
             category: "wildlife",
             title: "Untamed",
             location: "Germany",
