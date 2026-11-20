@@ -1,0 +1,55 @@
+{
+  "trailingSlash": true,
+  "redirects": [
+    {
+      "source": "/galerias/vida-nocturna.html",
+      "destination": "/es/galeria/vida-nocturna/",
+      "permanent": true
+    },
+    {
+      "source": "/galerias/retratos.html",
+      "destination": "/es/galeria/retratos/",
+      "permanent": true
+    },
+    {
+      "source": "/galerias/calle.html",
+      "destination": "/es/galeria/calle/",
+      "permanent": true
+    },
+    {
+      "source": "/galerias/conciertos.html",
+      "destination": "/es/galeria/conciertos/",
+      "permanent": true
+    },
+    {
+      "source": "/galerias/dj-musica.html",
+      "destination": "/es/galeria/dj-musica/",
+      "permanent": true
+    },
+    {
+      "source": "/galerias/fauna.html",
+      "destination": "/es/galeria/fauna/",
+      "permanent": true
+    },
+    {
+      "source": "/galerias/parejas.html",
+      "destination": "/es/galeria/parejas/",
+      "permanent": true
+    },
+    {
+      "source": "/galerias/eventos.html",
+      "destination": "/es/galeria/eventos/",
+      "permanent": true
+    },
+    {
+      "source": "/galerias/moda.html",
+      "destination": "/es/galeria/moda/",
+      "permanent": true
+    },
+    {
+      "source": "/galerias/F1.html",
+      "destination": "/es/galeria/f1/",
+      "permanent": true
+    }
+  ]
+}

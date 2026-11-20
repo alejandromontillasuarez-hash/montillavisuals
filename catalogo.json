@@ -1,0 +1,1626 @@
+{
+  "F1": [
+    {
+      "id": 1357,
+      "stem": "2026-0357",
+      "origen": "Fotos_Dani_Alejo/Salida_Cofe_Fly/Edicion/DSC03272.jpg",
+      "alt": {
+        "es": "Avión ascendiendo frente a nubes suaves",
+        "de": "Steigendes Flugzeug vor weichen Wolken"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1853
+    },
+    {
+      "id": 1,
+      "stem": "f1-1",
+      "alt": {
+        "es": "Hélices y fuselaje de un avión en tierra",
+        "de": "Propeller und Rumpf eines Flugzeugs am Boden"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1703
+    },
+    {
+      "id": 2,
+      "stem": "f1-2",
+      "alt": {
+        "es": "Avión de pasajeros junto a la pista",
+        "de": "Passagierflugzeug neben der Startbahn"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1157
+    },
+    {
+      "id": 3,
+      "stem": "f1-3",
+      "alt": {
+        "es": "Avión de pasajeros visto de lado cerca de la pista",
+        "de": "Passagierflugzeug seitlich an der Startbahn"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1702
+    },
+    {
+      "id": 4,
+      "stem": "f1-4",
+      "alt": {
+        "es": "Avión con cola turquesa bajo un cielo con nubes",
+        "de": "Flugzeug mit türkisfarbenem Leitwerk unter Wolken"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1910
+    },
+    {
+      "id": 1358,
+      "stem": "2026-0358",
+      "origen": "Fotos_Dani_Alejo/Salida_Cofe_Fly/Edicion/DSC03285.jpg",
+      "alt": {
+        "es": "Avión pequeño en un cielo azul con nubes",
+        "de": "Kleines Flugzeug zwischen Wolken am blauen Himmel"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 2341
+    }
+  ],
+  "calle": [
+    {
+      "id": 1265,
+      "stem": "2026-0265",
+      "origen": "DemoRave.Hamburg_2026/Edicion/DSC06394-416.jpg",
+      "alt": {
+        "es": "Persona que saluda en medio de una concentración",
+        "de": "Eine winkende Person in einer Menschenmenge"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1365
+      },
+      "w": 1365,
+      "h": 2048
+    },
+    {
+      "id": 1,
+      "stem": "calle-1",
+      "alt": {
+        "es": "Personas en una escena urbana en blanco y negro",
+        "de": "Menschen in einer Stadtszene in Schwarz-Weiß"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1066
+    },
+    {
+      "id": 2,
+      "stem": "calle-2",
+      "alt": {
+        "es": "Público en una pista urbana en blanco y negro",
+        "de": "Publikum auf einer städtischen Anlage in Schwarz-Weiß"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1066
+    },
+    {
+      "id": 3,
+      "stem": "calle-3",
+      "alt": {
+        "es": "Atracciones iluminadas en una feria nocturna",
+        "de": "Beleuchtete Fahrgeschäfte auf einem Nachtjahrmarkt"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1067
+    },
+    {
+      "id": 4,
+      "stem": "calle-4",
+      "alt": {
+        "es": "Escena nocturna entre luces de colores y grafitis",
+        "de": "Nachtszene zwischen bunten Lichtern und Graffiti"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1066
+    },
+    {
+      "id": 5,
+      "stem": "calle-5",
+      "alt": {
+        "es": "Persona con ropa de colores en un espacio arbolado",
+        "de": "Person in bunter Kleidung zwischen Bäumen"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1600
+    },
+    {
+      "id": 6,
+      "stem": "calle-6",
+      "alt": {
+        "es": "Persona con una bicicleta en blanco y negro",
+        "de": "Person mit einem Fahrrad in Schwarz-Weiß"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1365
+      },
+      "w": 1365,
+      "h": 2048
+    },
+    {
+      "id": 7,
+      "stem": "calle-7",
+      "alt": {
+        "es": "Público al aire libre en blanco y negro",
+        "de": "Publikum im Freien in Schwarz-Weiß"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1365
+      },
+      "w": 1365,
+      "h": 2048
+    },
+    {
+      "id": 8,
+      "stem": "calle-8",
+      "alt": {
+        "es": "Persona con ropa estampada frente a un grupo",
+        "de": "Person in gemusterter Kleidung vor einer Gruppe"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1365
+      },
+      "w": 1365,
+      "h": 2048
+    },
+    {
+      "id": 9,
+      "stem": "calle-9",
+      "alt": {
+        "es": "Coche rojo al fondo de un camino entre hojas verdes",
+        "de": "Rotes Auto am Ende eines Wegs zwischen grünen Blättern"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 2400
+    },
+    {
+      "id": 10,
+      "stem": "calle-10",
+      "alt": {
+        "es": "Dos personas de pie frente a grafitis",
+        "de": "Zwei Personen vor Graffiti"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1365
+      },
+      "w": 1365,
+      "h": 2048
+    },
+    {
+      "id": 1738,
+      "stem": "2026-0738",
+      "origen": "Paisajismo/18.11/DSC02630-194.jpg",
+      "alt": {
+        "es": "Tranvía con estelas de luz nocturnas",
+        "de": "Straßenbahn mit nächtlichen Lichtspuren"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1066
+    },
+    {
+      "id": 1766,
+      "stem": "2026-0766",
+      "origen": "Paisajismo/18.11/DSC04919-171.jpg",
+      "alt": {
+        "es": "Vías y edificios urbanos vistos desde lo alto",
+        "de": "Gleise und Stadtgebäude von oben"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1066
+    },
+    {
+      "id": 1787,
+      "stem": "2026-0787",
+      "origen": "Paisajismo/18.11/DSC08572-242.jpg",
+      "alt": {
+        "es": "Automóvil rosa estacionado frente a un escaparate",
+        "de": "Rosa Auto vor einem Schaufenster"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 929
+    },
+    {
+      "id": 1825,
+      "stem": "2026-0825",
+      "origen": "Resilence Crowd/edit/DSC04492-658.jpg",
+      "alt": {
+        "es": "Fachada cubierta de carteles e iluminada de noche",
+        "de": "Nachts beleuchtete Fassade voller Plakate"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 900
+    },
+    {
+      "id": 1857,
+      "stem": "2026-0857",
+      "origen": "Strasse/edit/DSC04187-615.jpg",
+      "alt": {
+        "es": "Dos personas frente a un muro de grafitis",
+        "de": "Zwei Personen vor einer Graffitiwand"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1066
+    }
+  ],
+  "conciertos": [
+    {
+      "id": 1101,
+      "stem": "2026-0101",
+      "origen": "1mer. Aniversario/edir/DSC07117-100.jpg",
+      "alt": {
+        "es": "Escenario y mesa de mezclas bajo luz violeta",
+        "de": "Bühne und Mischpult unter violettem Licht"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1066
+    },
+    {
+      "id": 1,
+      "stem": "conciertos-1",
+      "alt": {
+        "es": "DJ con auriculares y una mano sobre la mesa",
+        "de": "DJ mit Kopfhörern und einer Hand über dem Mischpult"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1600
+    },
+    {
+      "id": 2,
+      "stem": "conciertos-2",
+      "alt": {
+        "es": "DJ con chaqueta de cuero mirando la mesa de mezclas",
+        "de": "DJ in Lederjacke am Mischpult"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1600
+    },
+    {
+      "id": 3,
+      "stem": "conciertos-3",
+      "alt": {
+        "es": "Dos DJs junto a una máscara iluminada en verde",
+        "de": "Zwei DJs neben einer grün leuchtenden Maske"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1067
+    },
+    {
+      "id": 4,
+      "stem": "conciertos-4",
+      "alt": {
+        "es": "DJ ante un fondo rojo",
+        "de": "DJ vor rotem Hintergrund"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1067
+    },
+    {
+      "id": 5,
+      "stem": "conciertos-5",
+      "alt": {
+        "es": "Público y escenario bajo una cubierta en blanco y negro",
+        "de": "Publikum und Bühne unter einem Dach in Schwarz-Weiß"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1066
+    },
+    {
+      "id": 6,
+      "stem": "conciertos-6",
+      "alt": {
+        "es": "Público bajo un puente con grafitis",
+        "de": "Publikum unter einer Brücke mit Graffiti"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1066
+    },
+    {
+      "id": 7,
+      "stem": "conciertos-7",
+      "alt": {
+        "es": "Equipo musical al aire libre con un cartel de colores",
+        "de": "Musikanlage im Freien mit buntem Schild"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1365
+      },
+      "w": 1365,
+      "h": 2048
+    },
+    {
+      "id": 8,
+      "stem": "conciertos-8",
+      "alt": {
+        "es": "DJ de perfil bajo luz azul",
+        "de": "DJ im Profil unter blauem Licht"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1066
+    },
+    {
+      "id": 10,
+      "stem": "conciertos-10",
+      "alt": {
+        "es": "Grupo junto a una mesa de DJ en blanco y negro",
+        "de": "Gruppe am DJ-Pult in Schwarz-Weiß"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1066
+    },
+    {
+      "id": 11,
+      "stem": "conciertos-11",
+      "alt": {
+        "es": "Público al aire libre bajo un cielo nublado",
+        "de": "Publikum im Freien unter einem bewölkten Himmel"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1365
+      },
+      "w": 1365,
+      "h": 2048
+    },
+    {
+      "id": 1125,
+      "stem": "2026-0125",
+      "origen": "1mer. Aniversario/edir/DSC07583-124.jpg",
+      "alt": {
+        "es": "Artistas en la cabina bajo un haz de luz roja",
+        "de": "Künstler am DJ-Pult unter einem roten Lichtstrahl"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1066
+    },
+    {
+      "id": 1425,
+      "stem": "2026-0425",
+      "origen": "Open Air Love sensation/edicion/DSC05167-368.jpg",
+      "alt": {
+        "es": "Artista en la mesa de mezclas al aire libre",
+        "de": "Künstlerin am Mischpult im Freien"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1066
+    },
+    {
+      "id": 1481,
+      "stem": "2026-0481",
+      "origen": "Open Air Love sensation/edicion/DSC05989.jpg",
+      "alt": {
+        "es": "Escenario con luz azul y roja detrás del DJ",
+        "de": "Bühne mit blauem und rotem Licht hinter dem DJ"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1067
+    },
+    {
+      "id": 1546,
+      "stem": "2026-0546",
+      "origen": "Open Air_ SOLIDARY/Edit/DSC00820-501.jpg",
+      "alt": {
+        "es": "Público junto a la cabina iluminada en violeta",
+        "de": "Publikum neben dem violett beleuchteten DJ-Pult"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1066
+    }
+  ],
+  "dj-musica": [
+    {
+      "id": 1012,
+      "stem": "2026-0012",
+      "origen": "1mer. Aniversario/edir/DSC05866-11.jpg",
+      "alt": {
+        "es": "Dos DJs frente al letrero Baalsaal",
+        "de": "Zwei DJs vor dem Baalsaal-Schriftzug"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1066
+    },
+    {
+      "id": 1,
+      "stem": "dj-musica-1",
+      "alt": {
+        "es": "DJ con la mano en los auriculares bajo luz azul",
+        "de": "DJ unter blauem Licht mit einer Hand am Kopfhörer"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1066
+    },
+    {
+      "id": 2,
+      "stem": "dj-musica-2",
+      "alt": {
+        "es": "Dos personas junto a la mesa de mezclas en blanco y negro",
+        "de": "Zwei Personen am Mischpult in Schwarz-Weiß"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1066
+    },
+    {
+      "id": 3,
+      "stem": "dj-musica-3",
+      "alt": {
+        "es": "DJ de espaldas junto a un altavoz al aire libre",
+        "de": "DJ von hinten neben einem Lautsprecher im Freien"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1066
+    },
+    {
+      "id": 4,
+      "stem": "dj-musica-4",
+      "alt": {
+        "es": "Mesa de DJ iluminada en azul",
+        "de": "Blau beleuchtetes DJ-Pult"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1066
+    },
+    {
+      "id": 5,
+      "stem": "dj-musica-5",
+      "alt": {
+        "es": "Dos personas tras una mesa de mezclas bajo luz azul",
+        "de": "Zwei Personen hinter einem Mischpult unter blauem Licht"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1066
+    },
+    {
+      "id": 6,
+      "stem": "dj-musica-6",
+      "alt": {
+        "es": "DJ y público en un espacio oscuro",
+        "de": "DJ und Publikum in einem dunklen Raum"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1365
+      },
+      "w": 1365,
+      "h": 2048
+    },
+    {
+      "id": 1038,
+      "stem": "2026-0038",
+      "origen": "1mer. Aniversario/edir/DSC06157-37.jpg",
+      "alt": {
+        "es": "DJ ajustando la mesa en una escena en blanco y negro",
+        "de": "DJ am Mischpult in einer Schwarzweißaufnahme"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1066
+    },
+    {
+      "id": 1086,
+      "stem": "2026-0086",
+      "origen": "1mer. Aniversario/edir/DSC06769-85.jpg",
+      "alt": {
+        "es": "DJ iluminado desde arriba mientras mezcla",
+        "de": "DJ beim Mixen im Licht von oben"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1066
+    },
+    {
+      "id": 1177,
+      "stem": "2026-0177",
+      "origen": "Cesar_VideoSet/edicion/DSC03974.jpg",
+      "alt": {
+        "es": "DJ de perfil frente a la mesa de mezclas",
+        "de": "DJ im Profil vor dem Mischpult"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 2400
+    },
+    {
+      "id": 1589,
+      "stem": "2026-0589",
+      "origen": "Open Air_ SOLIDARY/Edit/DSC01664-460.jpg",
+      "alt": {
+        "es": "Primer plano de un plato y los controles iluminados",
+        "de": "Nahaufnahme eines beleuchteten Decks und seiner Regler"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1066
+    },
+    {
+      "id": 1799,
+      "stem": "2026-0799",
+      "origen": "RACETECH/EDIT/DSC02457-636.jpg",
+      "alt": {
+        "es": "DJ en una cabina con iluminación multicolor",
+        "de": "DJ an einem bunt beleuchteten Pult"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1066
+    }
+  ],
+  "fauna": [
+    {
+      "id": 1747,
+      "stem": "2026-0747",
+      "origen": "Paisajismo/18.11/DSC03294-202.jpg",
+      "alt": {
+        "es": "Animal acuático bajo luz verde",
+        "de": "Wassertier unter grünem Licht"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1066
+    },
+    {
+      "id": 1,
+      "stem": "fauna-1",
+      "alt": {
+        "es": "Primer plano de un ciervo",
+        "de": "Nahaufnahme eines Hirsches"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1067
+    },
+    {
+      "id": 2,
+      "stem": "fauna-2",
+      "alt": {
+        "es": "Insecto sobre una planta con fondo desenfocado",
+        "de": "Insekt auf einer Pflanze vor unscharfem Hintergrund"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1066
+    },
+    {
+      "id": 3,
+      "stem": "fauna-3",
+      "alt": {
+        "es": "Ciervos entre la hierba y las sombras",
+        "de": "Hirsche zwischen Gras und Schatten"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1067
+    },
+    {
+      "id": 4,
+      "stem": "fauna-4",
+      "alt": {
+        "es": "Detalle de una flor blanca con centro amarillo",
+        "de": "Weiße Blüte mit gelber Mitte im Detail"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1600
+    },
+    {
+      "id": 5,
+      "stem": "fauna-5",
+      "alt": {
+        "es": "Cornamenta de un ciervo en primer plano",
+        "de": "Hirschgeweih im Vordergrund"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1067
+    },
+    {
+      "id": 6,
+      "stem": "fauna-6",
+      "alt": {
+        "es": "Agua y vegetación verde en la orilla",
+        "de": "Wasser und grüne Pflanzen am Ufer"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1583
+      },
+      "w": 1583,
+      "h": 2048
+    },
+    {
+      "id": 8,
+      "stem": "fauna-8",
+      "alt": {
+        "es": "Espiga de flores rojas y amarillas",
+        "de": "Ähre mit roten und gelben Blüten"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1600
+    },
+    {
+      "id": 9,
+      "stem": "fauna-9",
+      "alt": {
+        "es": "Insecto sobre una hoja verde",
+        "de": "Insekt auf einem grünen Blatt"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1842
+    },
+    {
+      "id": 1748,
+      "stem": "2026-0748",
+      "origen": "Paisajismo/18.11/DSC03381-201.jpg",
+      "alt": {
+        "es": "Medusas bajo luz azul verdosa",
+        "de": "Quallen in blaugrünem Licht"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1066
+    },
+    {
+      "id": 1750,
+      "stem": "2026-0750",
+      "origen": "Paisajismo/18.11/DSC03453-199.jpg",
+      "alt": {
+        "es": "Peces iluminados en agua oscura",
+        "de": "Beleuchtete Fische in dunklem Wasser"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1066
+    },
+    {
+      "id": 1785,
+      "stem": "2026-0785",
+      "origen": "Paisajismo/18.11/DSC08526-244.jpg",
+      "alt": {
+        "es": "Ave blanca posada junto al agua",
+        "de": "Weißer Vogel am Wasser"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1066
+    },
+    {
+      "id": 1367,
+      "stem": "2026-0367",
+      "origen": "Fotos_Daniela/Edicion Daniela/DSC00757.jpg",
+      "alt": {
+        "es": "Flores amarillas y una flor esférica violeta",
+        "de": "Gelbe Blüten neben einer violetten Kugelblüte"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1600
+    }
+  ],
+  "parejas": [
+    {
+      "id": 1252,
+      "stem": "2026-0252",
+      "origen": "DemoRave.Hamburg_2026/Edicion/DSC06331-429.jpg",
+      "alt": {
+        "es": "Dos personas conversando entre el público en blanco y negro",
+        "de": "Zwei Menschen im Gespräch in einer Schwarzweißaufnahme"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1066
+    },
+    {
+      "id": 2,
+      "stem": "parejas-2",
+      "alt": {
+        "es": "Dos personas sonrientes en un evento",
+        "de": "Zwei lächelnde Personen bei einer Veranstaltung"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1600
+    },
+    {
+      "id": 5,
+      "stem": "parejas-5",
+      "alt": {
+        "es": "Dos personas conversan en un interior con luz cálida",
+        "de": "Zwei Personen unterhalten sich in einem warm beleuchteten Innenraum"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1067
+    },
+    {
+      "id": 7,
+      "stem": "parejas-7",
+      "alt": {
+        "es": "Dos personas juntas junto a una zona de césped",
+        "de": "Zwei Personen an einer Rasenfläche"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1067
+    },
+    {
+      "id": 8,
+      "stem": "parejas-8",
+      "alt": {
+        "es": "Dos personas con gafas de sol entre el público",
+        "de": "Zwei Personen mit Sonnenbrillen in einer Menschenmenge"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1365
+      },
+      "w": 1365,
+      "h": 2048
+    },
+    {
+      "id": 9,
+      "stem": "parejas-9",
+      "alt": {
+        "es": "Personas juntas en una escena en blanco y negro",
+        "de": "Menschen in einer Schwarz-Weiß-Szene"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1365
+      },
+      "w": 1365,
+      "h": 2048
+    },
+    {
+      "id": 1267,
+      "stem": "2026-0267",
+      "origen": "DemoRave.Hamburg_2026/Edicion/DSC06400-414.jpg",
+      "alt": {
+        "es": "Dos personas se miran en medio de una concentración",
+        "de": "Zwei Personen blicken einander in einer Menschenmenge an"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1066
+    },
+    {
+      "id": 1396,
+      "stem": "2026-0396",
+      "origen": "Open Air Love sensation/edicion/DSC04750.jpg",
+      "alt": {
+        "es": "Dos personas juntas bajo la luz del día",
+        "de": "Zwei Personen zusammen im Tageslicht"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 2400
+    }
+  ],
+  "retratos": [
+    {
+      "id": 3,
+      "stem": "retratos-3",
+      "alt": {
+        "es": "Retrato de perfil en blanco y negro",
+        "de": "Profilporträt in Schwarz-Weiß"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1365
+      },
+      "w": 1365,
+      "h": 2048
+    },
+    {
+      "id": 5,
+      "stem": "retratos-5",
+      "alt": {
+        "es": "Retrato de un rostro bajo luz azul",
+        "de": "Gesichtsporträt unter blauem Licht"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1365
+      },
+      "w": 1365,
+      "h": 2048
+    },
+    {
+      "id": 6,
+      "stem": "retratos-6",
+      "alt": {
+        "es": "Persona con un perro en blanco y negro",
+        "de": "Person mit einem Hund in Schwarz-Weiß"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1365
+      },
+      "w": 1365,
+      "h": 2048
+    },
+    {
+      "id": 7,
+      "stem": "retratos-7",
+      "alt": {
+        "es": "Retrato en un espacio oscuro con luces de colores",
+        "de": "Porträt in einem dunklen Raum mit bunten Lichtern"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1365
+      },
+      "w": 1365,
+      "h": 2048
+    },
+    {
+      "id": 8,
+      "stem": "retratos-8",
+      "alt": {
+        "es": "Persona con una bicicleta en blanco y negro",
+        "de": "Person mit einem Fahrrad in Schwarz-Weiß"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1365
+      },
+      "w": 1365,
+      "h": 2048
+    }
+  ],
+  "vida-nocturna": [
+    {
+      "id": 1021,
+      "stem": "2026-0021",
+      "origen": "1mer. Aniversario/edir/DSC05983-20.jpg",
+      "alt": {
+        "es": "Letrero Baalsaal iluminado en rojo",
+        "de": "Rot beleuchteter Baalsaal-Schriftzug"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1066
+    },
+    {
+      "id": 3,
+      "w": 2048,
+      "h": 1328,
+      "alt": {
+        "de": "Publikum vor einer blau beleuchteten Bühne mit dem Banner Dark Times Kollektiv",
+        "es": "Público frente a un escenario iluminado en azul con el cartel de Dark Times Kollektiv"
+      },
+      "stem": "night-3"
+    },
+    {
+      "id": 2,
+      "w": 2048,
+      "h": 1280,
+      "alt": {
+        "de": "Menschen auf einem rot beleuchteten Wagen unter einem dunkelblauen Himmel",
+        "es": "Personas sobre una plataforma iluminada en rojo bajo un cielo azul oscuro"
+      },
+      "stem": "night-2"
+    },
+    {
+      "id": 1,
+      "w": 2048,
+      "h": 1365,
+      "alt": {
+        "de": "Eine Gruppe steht nachts unter warmem Licht zusammen",
+        "es": "Un grupo de personas conversa de noche bajo una luz cálida"
+      },
+      "stem": "night-1"
+    },
+    {
+      "id": 4,
+      "w": 2560,
+      "h": 1707,
+      "alt": {
+        "de": "Menschen am DJ-Pult, dahinter eine Person mit weißer Maske",
+        "es": "Personas junto a la mesa del DJ y, al fondo, una figura con máscara blanca"
+      },
+      "stem": "night-4"
+    },
+    {
+      "id": 5,
+      "w": 2048,
+      "h": 1365,
+      "alt": {
+        "de": "Blau beleuchtetes DJ-Pult mit Personen im Hintergrund",
+        "es": "Mesa de DJ iluminada en azul con varias personas al fondo"
+      },
+      "stem": "night-5"
+    },
+    {
+      "id": 1067,
+      "stem": "2026-0067",
+      "origen": "1mer. Aniversario/edir/DSC06591-66.jpg",
+      "alt": {
+        "es": "Mesa de mezclas bajo una columna de luz roja",
+        "de": "Mischpult unter einem roten Lichtstrahl"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1066
+    },
+    {
+      "id": 1121,
+      "stem": "2026-0121",
+      "origen": "1mer. Aniversario/edir/DSC07542-120.jpg",
+      "alt": {
+        "es": "Siluetas entre humo y luz en blanco y negro",
+        "de": "Silhouetten zwischen Rauch und Licht in Schwarzweiß"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1066
+    },
+    {
+      "id": 1477,
+      "stem": "2026-0477",
+      "origen": "Open Air Love sensation/edicion/DSC05947.jpg",
+      "alt": {
+        "es": "Figura en movimiento bajo destellos rosados",
+        "de": "Figur in Bewegung unter rosa Licht"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1067
+    },
+    {
+      "id": 1598,
+      "stem": "2026-0598",
+      "origen": "Open Air_ SOLIDARY/Edit/DSC01968-451.jpg",
+      "alt": {
+        "es": "Persona con sombrero rojo bajo iluminación azul",
+        "de": "Person mit rotem Hut unter blauem Licht"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1066
+    },
+    {
+      "id": 1660,
+      "stem": "2026-0660",
+      "origen": "Open Air_ SOLIDARY/Edit/DSC09585-529.jpg",
+      "alt": {
+        "es": "Público junto a un foco verde intenso",
+        "de": "Publikum neben einem kräftigen grünen Scheinwerfer"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1066
+    },
+    {
+      "id": 1796,
+      "stem": "2026-0796",
+      "origen": "RACETECH/EDIT/DSC02411-634.jpg",
+      "alt": {
+        "es": "Cabina nocturna entre diagonales de luz y color",
+        "de": "Nächtliches DJ-Pult zwischen farbigen Lichtdiagonalen"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1066
+    }
+  ],
+  "eventos": [
+    {
+      "id": 1423,
+      "stem": "2026-0423",
+      "origen": "Open Air Love sensation/edicion/DSC05127.jpg",
+      "alt": {
+        "es": "Escenario abierto rodeado de vegetación",
+        "de": "Offene Bühne zwischen Bäumen"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1067
+    },
+    {
+      "id": 1440,
+      "stem": "2026-0440",
+      "origen": "Open Air Love sensation/edicion/DSC05378.jpg",
+      "alt": {
+        "es": "Asistentes frente a la cabina al aire libre",
+        "de": "Gäste vor dem DJ-Pult im Freien"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1067
+    },
+    {
+      "id": 1468,
+      "stem": "2026-0468",
+      "origen": "Open Air Love sensation/edicion/DSC05829.jpg",
+      "alt": {
+        "es": "Dos artistas junto a la mesa bajo luces rojas",
+        "de": "Zwei Künstler am Mischpult unter rotem Licht"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1067
+    },
+    {
+      "id": 1529,
+      "stem": "2026-0529",
+      "origen": "Open Air_ SOLIDARY/Edit/DSC00501-597.jpg",
+      "alt": {
+        "es": "Siluetas del público bajo una cubierta",
+        "de": "Silhouetten des Publikums unter einem Dach"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1066
+    },
+    {
+      "id": 1626,
+      "stem": "2026-0626",
+      "origen": "Open Air_ SOLIDARY/Edit/DSC08410-563.jpg",
+      "alt": {
+        "es": "Puesto del evento con banderas y equipo de sonido",
+        "de": "Veranstaltungsstand mit Flaggen und Tontechnik"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1066
+    },
+    {
+      "id": 1641,
+      "stem": "2026-0641",
+      "origen": "Open Air_ SOLIDARY/Edit/DSC08794-548.jpg",
+      "alt": {
+        "es": "Grupo de asistentes en blanco y negro",
+        "de": "Gruppe von Gästen in Schwarzweiß"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1066
+    },
+    {
+      "id": 1658,
+      "stem": "2026-0658",
+      "origen": "Open Air_ SOLIDARY/Edit/DSC09510-531.jpg",
+      "alt": {
+        "es": "Vista general de un encuentro musical al aire libre",
+        "de": "Übersicht eines Musiktreffens im Freien"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1066
+    },
+    {
+      "id": 1691,
+      "stem": "2026-0691",
+      "origen": "OpenAir_0626/Edicion_openair/DSC00266.jpg",
+      "alt": {
+        "es": "Asistentes posando delante del equipo del evento",
+        "de": "Gäste posieren vor der Veranstaltungstechnik"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1600
+    }
+  ],
+  "moda": [
+    {
+      "id": 1576,
+      "stem": "2026-0576",
+      "origen": "Open Air_ SOLIDARY/Edit/DSC01436-472.jpg",
+      "alt": {
+        "es": "Camiseta negra con gráfica roja vista de espaldas",
+        "de": "Schwarzes T-Shirt mit roter Rückengrafik"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1365
+      },
+      "w": 1365,
+      "h": 2048
+    },
+    {
+      "id": 1622,
+      "stem": "2026-0622",
+      "origen": "Open Air_ SOLIDARY/Edit/DSC08357-567.jpg",
+      "alt": {
+        "es": "Prenda negra con estampado tipográfico",
+        "de": "Schwarzes Kleidungsstück mit Schriftmotiv"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1365
+      },
+      "w": 1365,
+      "h": 2048
+    }
+  ],
+  "paisaje": [
+    {
+      "id": 1722,
+      "stem": "2026-0722",
+      "origen": "Paisajismo/18.11/DSC00026-158.jpg",
+      "alt": {
+        "es": "Palacio iluminado al otro lado del agua al anochecer",
+        "de": "Beleuchtetes Schloss am gegenüberliegenden Ufer in der Dämmerung"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1066
+    },
+    {
+      "id": 1727,
+      "stem": "2026-0727",
+      "origen": "Paisajismo/18.11/DSC02498-182.jpg",
+      "alt": {
+        "es": "Lago turquesa bajo montañas",
+        "de": "Türkisfarbener See unter Bergen"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1365
+      },
+      "w": 1365,
+      "h": 2048
+    },
+    {
+      "id": 1734,
+      "stem": "2026-0734",
+      "origen": "Paisajismo/18.11/DSC02572-175.jpg",
+      "alt": {
+        "es": "Caída de agua entre paredes de roca",
+        "de": "Wasserfall zwischen Felswänden"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1365
+      },
+      "w": 1365,
+      "h": 2048
+    },
+    {
+      "id": 1758,
+      "stem": "2026-0758",
+      "origen": "Paisajismo/18.11/DSC04706-163.jpg",
+      "alt": {
+        "es": "Camino de árboles con follaje otoñal",
+        "de": "Baumallee mit Herbstlaub"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1066
+    },
+    {
+      "id": 1764,
+      "stem": "2026-0764",
+      "origen": "Paisajismo/18.11/DSC04849-169.jpg",
+      "alt": {
+        "es": "Paisaje de agua y árboles en otoño",
+        "de": "Gewässer und Bäume im Herbst"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 951
+    },
+    {
+      "id": 1767,
+      "stem": "2026-0767",
+      "origen": "Paisajismo/18.11/DSC07727-262.jpg",
+      "alt": {
+        "es": "Horizonte portuario visto a través de la bruma",
+        "de": "Hafenhorizont im Dunst"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1066
+    },
+    {
+      "id": 1793,
+      "stem": "2026-0793",
+      "origen": "Paisajismo/18.11/DSC09808-156.jpg",
+      "alt": {
+        "es": "Puente bajo ramas de colores otoñales",
+        "de": "Brücke unter herbstlich gefärbten Zweigen"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1066
+    },
+    {
+      "id": 1875,
+      "stem": "2026-0875",
+      "origen": "Verano _2026/2/DSC02326-362.jpg",
+      "alt": {
+        "es": "Orilla de un lago azul rodeado de bosque",
+        "de": "Ufer eines blauen Sees am Wald"
+      },
+      "widths": {
+        "480": 480,
+        "960": 960,
+        "1600": 1600
+      },
+      "w": 1600,
+      "h": 1066
+    }
+  ]
+}
